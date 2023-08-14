@@ -14,7 +14,7 @@
 
 ## My Github Stats
 
-![Github Stats 3](https://github-readme-stats.vercel.app/api?username=tarunkeshukumar) &emsp;&emsp;&emsp;&ensp; ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=tarunkeshukumar)
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=tarunkeshukumar)
 
 
 <h3 align="left">Tech Stack:</h3>
